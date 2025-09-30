@@ -17,7 +17,7 @@ from datetime import datetime, timedelta
 # =========================
 SENDER_EMAIL   = "projectnotification25@gmail.com"   # account that SENDS alerts (and whose INBOX we read)
 RECEIVER_EMAIL = "vamsi.d.2004@gmail.com"            # recipient of alerts (the one who replies)
-GMAIL_APP_PWD  = "kpke bpge lvmu zmzi"  # set env var in your OS
+GMAIL_APP_PWD  = "kpke bpge lvml ymzi"  # set env var in your OS
 FILE_PATH      = "Mail/UV Log 1.txt"                 # path to the log (updates ~1 minute)
 
 INTERVAL_SECONDS = 10                                 # check cadence (spam hot every 10s)
